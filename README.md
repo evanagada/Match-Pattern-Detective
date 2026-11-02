@@ -61,3 +61,7 @@ The planned improvements are:
 ## 8. Eisenhower Matrix
 
 ![Eisenhower Matrix](<docs/Eisenhower Matrix - Evana Gada.png>)
+
+## 9. System Architecture
+
+![System Architecture](docs/Architecture%20Diagram%20-%20Evana%20Gada.png)
