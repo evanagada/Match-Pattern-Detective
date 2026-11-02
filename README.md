@@ -57,3 +57,7 @@ The planned improvements are:
 - **Performance Visualization:** Generate visual graphs showing performance trends and recurring weaknesses.
 - **Personalized Training Recommendations:** Generate training recommendations based on weaknesses identified through performance analysis.
 - **Long-Term Progress Tracking:** Track improvement in specific weaknesses over time.
+
+## 8. Eisenhower Matrix
+
+![Eisenhower Matrix](<docs/Eisenhower Matrix - Evana Gada.png>)
